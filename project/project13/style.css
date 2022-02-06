@@ -1,0 +1,54 @@
+#box{
+    border: solid black 1px;
+    margin-left: 57px;
+    margin-top: 81px;
+    width: 216px;
+    padding: 20px;
+    border-radius: 20px;
+    height: 354px;
+    background-color: white;
+}
+#box1{
+    padding-left: 53px;
+}
+#box2{
+    font-size: 11px;
+    padding-left: 13px;
+}
+#box3{
+    font-size: 11px;
+}
+#box4{
+    margin-left: 69px;
+
+}
+#box6{
+    margin-left: 364px;
+    border: solid black 1px;
+    width: 390px;
+    height: 551px;
+    background-color: aquamarine;
+}
+#box7{
+    font-size: 15px;
+    margin-left: 80px;
+}
+body{
+    /* background-image: url(./image/macro-blur-keyboard-laptop-wallpaper-thumb.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#box9{
+    color: gold;
+}
+.box10{
+    background-color: aquamarine;
+    border: solid black 2px;
+    border-radius: 2px;
+}
+#box11{
+    padding-left: 6px;
+}
+#box12{
+    padding-left: 6px;
+}

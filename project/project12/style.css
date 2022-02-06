@@ -1,0 +1,29 @@
+#box3{
+    padding-left: 34px;
+    /* background-color: wheat;  */
+    /* border: solid black 2px; */
+}
+#box2{
+    padding: 40px;
+    padding-top: 10px;
+    border: solid rgb(3, 0, 0) 2px;
+    border-radius: 10px;
+    width: 183px;
+    margin-left: 461px;
+    /* background-color: rgb(247, 231, 202) */
+}
+#box4{
+    font-size: 10px;
+
+}
+.box6{
+    background-image: url(./image/smartphone-4942918_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: 1250px 600px;
+
+}
+.box{
+    width: 169px;
+    background-color: blue;
+    color: white
+}

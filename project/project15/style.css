@@ -1,0 +1,86 @@
+#box1{
+    height: 493px;
+    width: 337px;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+}
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(230,159,242,1) 0%, rgba(67,140,154,1) 100%);
+}
+#box2{
+    margin-left: 104px;
+    margin-top: 50px;
+}
+#box3{
+    padding-left: 50px;
+    font-size: 10px;
+}
+#box4{
+    padding-left: 50px;
+}
+#box5{
+    padding-left: 50px;
+    font-size: 10px;
+}
+#box6{
+    padding-left: 50px;
+}
+#box7{
+    padding-left: 50px;
+    font-size: 10px;
+}
+#box8{
+    padding-left: 50px;
+}
+#box9{
+    padding-left: 50px;
+    font-size: 10px;
+}
+#box10{
+    padding-left: 50px;
+}
+#box11{
+    padding-left: 50px;
+    font-size: 10px;
+}
+#box12{
+    padding-left: 50px;
+
+}
+#box13{
+    padding-left: 50px;
+}
+input[type=submit]{
+height: 32px;
+width: 235px;
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(230,159,242,1) 0%, rgba(67,140,154,1) 100%);
+border-radius: 40px;
+color:#fff;
+}
+input{
+    border: none;
+    border-bottom: black solid 1px;
+}
+#box15{
+    border: none;
+    border-bottom: groove black 1px;
+    width: 233px;
+}
+#box14{
+    border: none;
+    border-bottom: groove black 1px;
+    width: 233px;
+}
+input[type=text]{
+    width: 233px;
+}
+input[type=email]{
+    width: 233px;
+}
+input[type=select]
+{
+    width: 233px;
+}

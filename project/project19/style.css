@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 500px;
+    width: 600px;
+    background-color: antiquewhite;
+    margin: auto;
+    margin-top: 42px;
+    display: flex;
+    flex-direction: row;
+    border: black 1px solid;
+    border-radius: 5px;
+}
+.box{
+    height: 500px;
+    width: 218px;
+    background-color: rgb(48, 114, 238);
+    padding-left: 33px;
+    border-radius: 5px;
+}
+#box1{
+    height: 500px;
+    width: 381px;
+    background-color: white;
+    padding-left: 33px;
+    border-radius: 5px;
+}
+#box2{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 35px;
+    color: white;
+    font-size: 12px;
+}
+#box3{
+    margin-top: 35px;
+    color: white;
+    font-size: 14px;
+}
+#box4{
+    margin-top: 136px;
+}
+img{
+    width: 166px;
+    height: 144px;
+}
+input[type=submit]{
+    height: 42px;
+    width: 298px;
+    background-color: orangered;
+    color: white;
+    border: none;
+}
+#box6{
+background-color: white;
+color: blue;
+border: none;
+border-bottom: solid black 1px;
+border-left:solid black 1px ;
+border-right: solid black 1px;
+box-shadow: #c2bfbf 1px 10px 3px -4px;
+}
+#box7{
+    margin-top: 35px;
+}
+#box8{
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+
+}
+#box9{
+    padding-left: 138px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+#box10{
+    margin-top: 100px;
+    padding-left: 57px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+input[type=email]
+{ 
+    border: none;
+    border-bottom: groove black 1px;
+    width: 296px;
+    height: 28px;
+ 
+}
+input[type=password]
+{
+    border: none;
+    border-bottom: groove black 1px;
+    width: 247px;
+    height: 28px;
+}
+#a{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+
+}
